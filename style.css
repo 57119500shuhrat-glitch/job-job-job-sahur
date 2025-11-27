@@ -1,0 +1,95 @@
+header{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+}
+nav{
+    display: flex;
+    justify-content: space-around;
+    gap: 20px;
+    align-items: center;
+    
+}
+button{
+    background-color:#F1A900;
+    width: 192px;
+    height: 82px;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.box{
+    background-color:rgb(28, 26, 26);
+    display: flex;                      
+    justify-content: space-around;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+
+.olma div{
+     width: 235px;
+     height: 73px;  
+     background-color: #F1A900;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+
+}
+
+.pol{
+    background-color:#F1A900;
+    color: rgb(0, 0, 0);
+
+}
+
+.olma{
+     display: flex;
+     gap: 30px;
+     align-items: center;
+
+}
+
+.lol{
+    display: flex;
+    align-items: center; 
+    justify-content: center; 
+    flex-direction: column;  
+    height: 797px;
+    background-image:url(./image\ 5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.text{
+    width: 966px;
+    height: 202px;
+    background-color:#F1A90054;
+    color: white;
+    font-size: 64px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+footer{
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: white;
+} 
+
+.bionic{
+     display: flex;
+     justify-content: space-around;
+     gap: 20px;
+     align-items: center;
+     margin-left: 80%;
+}
+
+
+
+
